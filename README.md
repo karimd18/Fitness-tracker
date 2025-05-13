@@ -2,7 +2,7 @@
 
 An exploration into the realm of strength training analytics, leveraging wristband accelerometer and gyroscope data. This project harnesses modern **AI/ML technologies**—including Support Vector Machines (SVM), Neural Networks (MLPClassifier), Random Forests, Decision Trees, K-Means clustering, PCA, Butterworth filtering, and outlier detection techniques (Chauvenet’s criterion, Local Outlier Factor)—to classify exercises, count repetitions, and detect improper form, aiming to create a digital personal trainer experience.
 
-<img src="https://images.unsplash.com/photo-1519222970733-f546218fa6d3?auto=format&fit=crop&w=1000&q=80" alt="wristband sensor" width="100%">
+<img src="[https://images.unsplash.com/photo-1519222970733-f546218fa6d3?auto=format&fit=crop&w=1000&q=80](https://www.google.com/url?sa=i&url=https%3A%2F%2Falexreviewstech.com%2Fapple-watch-series-9-review-small-improvements-but-still-great%2F&psig=AOvVaw26UBpdX3iLcaNgTrq9cGwl&ust=1747181811927000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC_idCVn40DFQAAAAAdAAAAABAh)" alt="wristband sensor" width="100%">
 
 # Table of Contents
 - [Introduction, Goal, and Context](#part-1)
